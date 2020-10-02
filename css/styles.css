@@ -68,8 +68,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .your-akan-name p {
     font-family: 'Saira Extra Condensed',serif;
-    font-weight: 700;
-    text-transform: uppercase;
+    font-weight: 200;
   
     font-size: 18px;
     text-align: center;
@@ -113,14 +112,7 @@ h1, h2, h3, h4, h5, h6 {
 .rdio input[type="radio"]:disabled + label:before  {
     background-color: #eee;
 }
-.division{
-    margin-left: 1%;
-    margin-right: 100px;
-    margin-top: 20px;
-    margin-bottom: auto;
-    padding-bottom: 40px;
-    border-radius: 10%;
-}
+
 .rdio input[type="radio"]:checked + label::after  {
     content: '';
     position: absolute;
@@ -130,51 +122,17 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 11px;
     width: 10px;
     height: 10px;
-    background-color: #bd5d38;
+    background-color: blue;
     -moz-border-radius: 50px;
     -webkit-border-radius: 50px;
     border-radius: 50px;
 }
 
-.rdio-default input[type="radio"]:checked + label:before {
-    border-color: #bd5d38;
-}
-
-.rdio-primary input[type="radio"]:checked + label:before {
-    border-color: #428BCA;
-}
-
-.rdio-primary input[type="radio"]:checked + label::after {
-    background-color: #428BCA;
-}
-
-.rdio-warning input[type="radio"]:checked + label:before {
-    border-color: #F0AD4E;
-}
-
-.rdio-warning input[type="radio"]:checked + label::after {
-    background-color: #F0AD4E;
-}
-
-.rdio-success input[type="radio"]:checked + label:before {
-    border-color: #1CAF9A;
-}
-
-.rdio-success input[type="radio"]:checked + label::after {
-    background-color: #1CAF9A;
-}
-
-.rdio-danger input[type="radio"]:checked + label:before {
-    border-color: #D9534F;
-}
-
-.rdio-danger input[type="radio"]:checked + label::after {
-    background-color: #D9534F;
-}
 
 p.output span {
-    color:blueviolet;
-    font-size: 50px;
+    color:black;
+    font-size: 30px;
+    background-color: blanchedalmond;
 }
 
 
