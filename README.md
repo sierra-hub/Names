@@ -31,7 +31,8 @@ Javascript
 <br>
 Github Pages link
 <br>
-You can view the live application by following this link : 
+You can view the live application by following this link : https://sierra-hub.github.io/Names/
+<br>
 Contact information
 <br>
 Kteta.sierra@gmail.com
